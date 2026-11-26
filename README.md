@@ -47,7 +47,8 @@ API RESTful completa desenvolvida com **Node.js**, **Express** e **MongoDB** (vi
 3. **Configurar as variáveis de ambiente:**
    Crie o arquivo `.env` na raiz do projeto (pode copiar o `.env.example`):
    ```env
- 
+  PORT=3000
+   MONGO_URI=mongodb://127.0.0.1:27017/anime_fullstack
    ```
 
 
