@@ -37,7 +37,7 @@ API RESTful completa desenvolvida com **Node.js**, **Express** e **MongoDB** (vi
 
 1. **Clonar o repositório:**
    ```bash
-   git clone https://github.com/kakafls007-bit/Back-end-PWA-.git
+   git clone https://github.com/Faelreina/Back-end-PWA-.git
    cd Back-end-PWA-
    ```
 
