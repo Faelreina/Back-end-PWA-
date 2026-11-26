@@ -9,7 +9,7 @@ API RESTful completa desenvolvida com **Node.js**, **Express** e **MongoDB** (vi
 - **Node.js**
 - **Express.js**
 - **MongoDB & Mongoose**
-- **CORS** & **Dotenv**
+
 
 ---
 
@@ -35,7 +35,7 @@ API RESTful completa desenvolvida com **Node.js**, **Express** e **MongoDB** (vi
 
 1. **Clonar o repositório:**
    ```bash
-   git clone https://github.com/Faelreina/Back-end-PWA-/edit/
+   git clone https://github.com/Faelreina/Back-end-PWA-
    cd anime-backend
    ```
 
@@ -47,8 +47,7 @@ API RESTful completa desenvolvida com **Node.js**, **Express** e **MongoDB** (vi
 3. **Configurar as variáveis de ambiente:**
    Crie o arquivo `.env` na raiz do projeto (pode copiar o `.env.example`):
    ```env
-   PORT=3000
-   MONGO_URI=mongodb://127.0.0.1:27017/anime_fullstack
+ 
    ```
 
 
