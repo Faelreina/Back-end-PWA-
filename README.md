@@ -35,7 +35,7 @@ API RESTful completa desenvolvida com **Node.js**, **Express** e **MongoDB** (vi
 
 1. **Clonar o repositório:**
    ```bash
-   git clone https://github.com/Kauaax7/anime-backend.git
+   git clone https://github.com/Faelreina/Back-end-PWA-/edit/
    cd anime-backend
    ```
 
@@ -50,7 +50,7 @@ API RESTful completa desenvolvida com **Node.js**, **Express** e **MongoDB** (vi
    PORT=3000
    MONGO_URI=mongodb://127.0.0.1:27017/anime_fullstack
    ```
-   *(Caso utilize o MongoDB Atlas, substitua pela sua URI de conexão da nuvem e libere acesso de rede `0.0.0.0/0` em **Network Access**).*
+
 
 4. **Iniciar o servidor:**
    ```bash
@@ -94,7 +94,4 @@ anime-backend/
 
 ---
 
-## 📱 Repositório do Frontend
 
-O aplicativo mobile correspondente em **React Native (Expo)** está disponível em:  
-👉 [Repositório Frontend - Anime](https://github.com/Kauaax7/anime-frontend)
